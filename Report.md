@@ -1,4 +1,4 @@
-# Programming Assignment 2
+# Transformer Encoder and Decoder Optimization
 ##### Connor Gag
 
 

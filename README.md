@@ -1,4 +1,4 @@
-# PA 2
+# Transformer Encoder and Decoder Optimization
 ## Connor Gag
 
 ### How to run this
